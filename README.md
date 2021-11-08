@@ -19,4 +19,4 @@ App is customized to suite User's 7AM thru 3PM work schedule, but can be changed
 User is able to save task to there local storage, saving their task if browser is closed.
 
 ## Screen Shots
-[!]
+https://github.com/pwfoote/daily-work-task-app/blob/main/assets/images/Screen%20Shot%202021-11-07%20at%2010.11.50%20PM.png
