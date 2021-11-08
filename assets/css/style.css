@@ -43,19 +43,19 @@ textarea{
 }
 
 .past {
-  background-color: dimgray;
-  color:tomato;
+  background-color: grey;
+  color:white;
 }
 
 .current {
   background-color: #ff6961;
-  color:green;
+  color:red;
   font-style: italic;
 }
 
 .future {
   background-color: #77dd77;
-  color:white;
+  color:green;
 }
 
 ul.event-group {

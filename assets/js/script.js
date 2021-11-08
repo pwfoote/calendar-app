@@ -167,7 +167,7 @@ $("#save-delete15").on("click", "i.fa-trash", function () {
     $("#eventblock15").val("");
 })
 
-//save functions for time blocks
+//save/delete functions for time blocks
 $("#save-delete7").on("click", "i.fa-save", function () {
     var event7 = $("#eventblock7").val().trim();
     localStorage.setItem('hour7', JSON.stringify(event7));
