@@ -20,3 +20,5 @@ User is able to save task to there local storage, saving their task if browser i
 
 ## Screen Shots
 https://github.com/pwfoote/daily-work-task-app/blob/main/assets/images/Screen%20Shot%202021-11-07%20at%2010.11.50%20PM.png
+
+https://github.com/pwfoote/daily-work-task-app/blob/main/assets/images/Screen%20Shot%202021-11-08%20at%2010.12.02%20AM.png
